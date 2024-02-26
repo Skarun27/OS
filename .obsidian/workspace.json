@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "fdf134498e2a601a",
+    "type": "split",
+    "children": [
+      {
+        "id": "10818189db0414ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3a72f74acad7902",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Command Line.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48e6b9db523f1ed4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permissions.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10320ab49fe7d738",
+    "type": "split",
+    "children": [
+      {
+        "id": "d521a56c94b57478",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "541d4aafbbfc584d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9868b21c4ba05cb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "588cd6a4fabec653",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207.5
+  },
+  "right": {
+    "id": "fd265bc0816f79d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "19a8f3eb8d05d4db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c909e6eeb4b55f98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Permissions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2cec5d9262ffcee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Permissions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "326225771df96c0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "27d387562bb04e27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Permissions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "48e6b9db523f1ed4",
+  "lastOpenFiles": [
+    "Text-Fu.md",
+    "Permissions.md",
+    "File Permissions.md",
+    "Untitled.md",
+    "Access Management for Teams.md",
+    "User Management.md",
+    "Untitled.canvas",
+    "Advanced Text-Fu.md",
+    "Advanced Text-Fu",
+    "Advanced Text-fu",
+    "Untitled",
+    "Command Line.md",
+    "Welcome.md"
+  ]
+}
