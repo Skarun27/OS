@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Systems.md",
+                "file": "Text-Fu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Systems.md",
+                "file": "Text-Fu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Systems.md",
+                "file": "Text-Fu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Systems.md"
+                "file": "Text-Fu.md"
               }
             }
           }
@@ -148,23 +148,23 @@
   },
   "active": "95de90bdf67eefdb",
   "lastOpenFiles": [
-    "Devices.md",
-    "Packages.md",
+    "User Management.md",
+    "Advanced Text-Fu.md",
+    "Welcome.md",
+    "Text-Fu.md",
+    "Processes.md",
     "File Systems.md",
+    "Devices.md",
+    "Command Line.md",
+    "Access Management for Teams.md",
+    "Packages.md",
     "Untitled.md",
     "Devices",
     "Untitled",
-    "Text-Fu.md",
-    "Processes.md",
     "Permissions.md",
-    "Command Line.md",
-    "Advanced Text-Fu.md",
-    "Access Management for Teams.md",
     "File Permissions.md",
-    "User Management.md",
     "Untitled.canvas",
     "Advanced Text-Fu",
-    "Advanced Text-fu",
-    "Welcome.md"
+    "Advanced Text-fu"
   ]
 }
